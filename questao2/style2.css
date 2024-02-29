@@ -1,0 +1,15 @@
+div{
+    width: 200px;
+    height: 100px;
+    background-color: green;
+    border: 2px solid black; 
+    box-shadow: 10px 5px 5px;
+    padding: 20px;
+}
+ p{
+    color: white ;
+    font-size: 10px;
+ }
+h1{
+    font-size: 20px;
+}
