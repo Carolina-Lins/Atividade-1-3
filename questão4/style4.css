@@ -1,0 +1,12 @@
+.div4 {
+    background-image: url(https://uploads.metropoles.com/wp-content/uploads/2024/01/08164922/Taylor-Swift-Globo-de-Ouro.jpg);        
+    background-size: cover;
+    border-radius: 20px;
+    padding: 20px;
+    height: 500px;
+
+}
+
+div{
+    border: solid 1px;
+}
