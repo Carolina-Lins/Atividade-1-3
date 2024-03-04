@@ -1,0 +1,41 @@
+* { box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color: rgb(216, 167, 201);
+    font-family: monospace;
+}
+
+.geral{
+    display: grid;
+    grid-gap: 20px;
+    grid-template-columns: 300px 300px 300px;
+}
+
+.card {
+    background-color: blueviolet;
+    width: 300px;
+    height: 250px;
+    margin: 5px; 
+    border-radius: 20px;
+}
+
+.card button {
+    background-color: rgb(181, 155, 216);
+    font-weight: bold;
+}
+input{
+    text-align: center;
+    background-color: pink;
+}
+
+a :hover{
+    color: black;
+}
+
+.card img{
+    width: 100px;
+    height: auto;
+}

@@ -1,0 +1,16 @@
+body {
+    background-image: url(Cat.png);
+}
+
+P {
+    border: 1px solid;
+    background-color: rgb(180, 173, 173);
+    border-radius: 5px;
+    width: 180px;
+}
+button{
+    border: 1px solid;
+    background-color: rgb(0, 0, 0);
+    border-radius: 5px;
+    color: whitesmoke;
+}
